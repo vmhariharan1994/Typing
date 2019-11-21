@@ -1,0 +1,5 @@
+actuator for health check
+consul (service dicovery)
+implementating jwt in java spring boot
+pagenation setup in java spring boot
+error handling
